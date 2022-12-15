@@ -2,8 +2,8 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": "uk12345678", "mag": 2.3, "time": 1507425650893, "felt": 120, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 51.616073, -0.363379, 7.64 ] } },
-{ "type": "Feature", "properties": { "id": "ak16994519", "mag": 1.7, "time": 1507425289659, "felt": 121, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 51.604477, -0.391880, 46.41 ] } },
+{ "type": "Feature", "properties": { "id": "uk12345678", "mag": 2.3, "time": 1507425650893, "felt": 120, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 51.616073, -0.363379, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": "ak16994519", "mag": 1.7, "time": 1507425289659, "felt": 121, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 51.604477, -0.391880, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "ak16994517", "mag": 1.6, "time": 1507424832518, "felt": 122, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 51.611191, -0.331929, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "ci38021336", "mag": 1.4, "time": 1507423898710, "felt": 123, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 51.596236, -0.356499, 0.0 ] } },
 { "type": "Feature", "properties": { "id": "us2000b2nn", "mag": 4.2, "time": 1507422626990, "felt": 124, "tsunami": 0 }, "geometry": { "type": "Point", "coordinates": [ 51.578528, -0.389423, 0.0 ] } },
